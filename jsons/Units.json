@@ -13,5 +13,14 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
-	}
+	},
+	{
+		"name": "Mega Nuke",
+		"unitType": "Atomic Bomber",
+		"strength": 100,
+		"range": 40,
+		"sight": 50,
+		"cost": 600,
+		"requireTech": "Agriculture",
+		"attackSound": "phasers"
 ]
